@@ -1,5 +1,8 @@
+package Controller;
 import java.util.ArrayList;
 import java.util.List;
+
+import Model.Usuario;
 
 public class GerenciadorUsuario {
 

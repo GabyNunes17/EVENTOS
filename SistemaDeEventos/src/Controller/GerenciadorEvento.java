@@ -1,5 +1,8 @@
+package Controller;
 import java.util.ArrayList;
 import java.util.List;
+
+import Model.Evento;
 
 public class GerenciadorEvento {
     
@@ -14,4 +17,5 @@ public class GerenciadorEvento {
         eventos.add(evento);
         System.out.println("Evento cadastrado com sucesso!");   
        
+   }  
 }
